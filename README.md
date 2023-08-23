@@ -6,9 +6,11 @@ Script enables automatic read of the savecode.txt file and copies the users "-lo
 
 # INITIAL SETUP
 
-Save the following file to directory of your choice:
+1.  Save the following file to directory of your choice:  "wc3_youtd_savecode.py".
+2.  Open script with your choice of editor.
+3.  Edit line 10 of script, replacing 'C:\\...\\savecode.txt' with the filepath to your stored "savecode.txt"
+4.  Save and Exit.
 
-"wc3_youtd_savecode.py"
 
 # REQUIRED PACKAGES/MODULES
 
